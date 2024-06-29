@@ -2,7 +2,7 @@
 
 ## ✨ About Me 
 
-I'm [**Clara**](https://sithidej-clara.fr), a 20-years-old French student in computer science. I'm currently completing a master's degree in the French engineering school [Polytech Lyon](https://polytech.univ-lyon1.fr/). During my school curriculum, I studied mathematics, software engineering, web development, and data science. I also learned about project management, communication, and teamwork.
+I'm *Clara*, a 20-years-old French student in computer science. I'm currently completing a master's degree in the French engineering school [Polytech Lyon](https://polytech.univ-lyon1.fr/). During my school curriculum, I studied mathematics, software engineering, web development, and data science. I also learned about project management, communication, and teamwork.
 
 I love building beautiful and efficient applications by combining my technical knowledge with design. My goal is to create softwares that are both user-friendly and scalable. 
 
