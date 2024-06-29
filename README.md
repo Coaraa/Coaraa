@@ -1,18 +1,18 @@
 # Welcome ! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-## ✨ About Me ✨
+## ✨ About Me 
 
 I'm [**Clara**](https://sithidej-clara.fr), a 20-years-old French student in computer science. I'm currently completing a master's degree in the French engineering school [Polytech Lyon](https://polytech.univ-lyon1.fr/). During my school curriculum, I studied mathematics, software engineering, web development, and data science. I also learned about project management, communication, and teamwork.
 
 I love building beautiful and efficient applications by combining my technical knowledge with design. My goal is to create softwares that are both user-friendly and scalable. 
 
 
-## 📫 How to reach me 📫
+## 📫 How to reach me 
 
 If you want to learn more about my work, you can visit my [portfolio](https://sithidej-clara.fr) or browse my repositories.
 You can contact me by mail at [clara.sithidej[at]gmail[dot]com](mailto:clara.sithidej@gmail.com) or via [LinkedIn](https://www.linkedin.com/in/clara-sithidej-a10503268/).
 
-## 🛠️ Tools and Technologies 🛠️
+## 🛠️ Tools and Technologies 
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -30,7 +30,7 @@ You can contact me by mail at [clara.sithidej[at]gmail[dot]com](mailto:clara.sit
 ![SQL](https://img.shields.io/badge/SQL-00000F?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
-## ⚡ Fun Facts ⚡
+## ⚡ Fun Facts
 - I've been playing volleyball since I was 5
 - Vivaldi is my favorite composer
 - I can solve a Rubik's cube in less than 1 minutes
