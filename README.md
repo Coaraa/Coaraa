@@ -10,7 +10,7 @@ I love building beautiful and efficient applications by combining my technical k
 ## 📫 How to reach me 
 
 If you want to learn more about my work, you can visit my [portfolio](https://sithidej-clara.fr) or browse my repositories.
-You can contact me by mail at [clara.sithidej[at]gmail[dot]com](mailto:clara.sithidej@gmail.com) or via [LinkedIn](https://www.linkedin.com/in/clara-sithidej-a10503268/).
+You can contact me by mail at [clara.sithidej@gmail.com](mailto:clara.sithidej@gmail.com) or via [LinkedIn](https://www.linkedin.com/in/clara-sithidej-a10503268/).
 
 ## 🛠️ Tools and Technologies 
 
