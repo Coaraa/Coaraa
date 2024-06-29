@@ -33,4 +33,4 @@ You can contact me by mail at [clara.sithidej@gmail.com](mailto:clara.sithidej@g
 ## ⚡ Fun Facts
 - I've been playing volleyball since I was 5
 - Vivaldi is my favorite composer
-- I can solve a Rubik's cube in less than 1 minutes
+- I can solve a Rubik's cube in less than 1 minute
