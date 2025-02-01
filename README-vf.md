@@ -2,7 +2,7 @@
 
 ## ✨ À propos de moi
 
-Je m'appelle **Clara**, j'ai 20 ans et je suis étudiante en informatique. Actuellement eétudiante à l'école d'ingénieur [Polytech Lyon](https://polytech.univ-lyon1.fr/). Au cours de mon cursus scolaire, j'ai étudié les mathématiques, le développement d'application, le développement web et la science des données. J'ai également appris la gestion de projet, la communication et le travail en équipe.
+Je m'appelle **Clara**, j'ai 21 ans et je suis étudiante en informatique. Actuellement eétudiante à l'école d'ingénieur [Polytech Lyon](https://polytech.univ-lyon1.fr/). Au cours de mon cursus scolaire, j'ai étudié les mathématiques, le développement d'application, le développement web et la science des données. J'ai également appris la gestion de projet, la communication et le travail en équipe.
 
 J'aime construire des applications belles et performantes en combinant mes connaissances techniques avec le design. Mon objectif est de créer des logiciels à la fois intuitifs et évolutifs.
 
@@ -30,6 +30,6 @@ Vous pouvez me contacter par mail à l'adresse suivante: [clara.sithidej@gmail.c
 
 
 ## ⚡ Fun Facts
-- Je joue au volleyball depuis que j'ai 5 ans
+- Je joue au volleyball depuis que j'ai 10 ans
 - Vivaldi est mon compositeur préféré
 - Je peux résoudre un Rubik's cube en moins d'une minute
