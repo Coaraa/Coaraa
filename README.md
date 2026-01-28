@@ -2,7 +2,10 @@
 
 ## ✨ About Me 
 
-I'm *Clara*, a 22-years-old French student in computer science. I'm currently completing a master's degree in the French engineering school [Polytech Lyon](https://polytech.univ-lyon1.fr/). During my school curriculum, I studied mathematics, software engineering, web development, and data science. I also learned about project management, communication, and teamwork.
+I'm *Clara*, a 22-year-old French computer science student currently completing a **double degree** between the French engineering school [Polytech Lyon](https://polytech.univ-lyon1.fr/) and the **[Université du Québec à Chicoutimi (UQAC)](https://www.uqac.ca/)**, where I specialize in **Artificial Intelligence**.
+
+During my academic journey, I have studied mathematics, software engineering, web development, data science, and artificial intelligence. I have also developed strong skills in **project management**, **problem-solving**, **communication**, and **teamwork** through both academic and professional projects.
+
 
 ## 📫 How to reach me 
 
